@@ -1,0 +1,3 @@
+requests==2.33.1
+SQLAlchemy==2.0.32
+ijson==3.3.0
